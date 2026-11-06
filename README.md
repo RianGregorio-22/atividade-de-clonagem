@@ -1,5 +1,5 @@
 # exemplo-git-parte2
 
-Alguma coisa está escrita aqui
+Texto da minha-modificacao
 
 Alteração feita na branch minha-modificacao.
